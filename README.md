@@ -1,5 +1,5 @@
 # dungeon-crawler-ascii
-A simple Roguelike
+A roguelike I worked on for awhile using the libtcod library.
 
 Created with help from a tutorial @ http://www.roguebasin.com/
 
